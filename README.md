@@ -341,7 +341,7 @@ This project is open source. Feel free to use, modify, and distribute.
 
 For questions, suggestions, or issues:
 - Open a GitHub issue
-- Contact: [Your contact information]
+- Contact: https://shorturl.at/ublTG
 
 ---
 
@@ -356,4 +356,5 @@ For questions, suggestions, or issues:
 - [ ] Integration with investment platforms
 - [ ] Multi-language support
 - [ ] Real-time notifications
+
 - [ ] Automated SIP recommendations
