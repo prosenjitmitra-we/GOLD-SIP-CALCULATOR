@@ -1,0 +1,43 @@
+# Gold SIP Calculator - Python Dependencies
+
+# Core dependencies
+python-dateutil>=2.8.2
+requests>=2.28.0
+
+# Web Framework (Flask)
+Flask>=2.3.0
+Flask-Session>=0.4.0
+
+# Data visualization and analysis (Streamlit)
+streamlit>=1.25.0
+pandas>=1.5.0
+plotly>=5.10.0
+numpy>=1.24.0
+
+# Telegram Bot
+python-telegram-bot>=20.0
+
+# Development and testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+
+# Optional: For production deployment
+gunicorn>=20.1.0
+uvicorn>=0.20.0
+
+# Optional: For enhanced gold price APIs
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+
+# Optional: For database support (if needed)
+# SQLAlchemy>=2.0.0
+# sqlite3 (built-in with Python)
+
+# Optional: For caching
+# redis>=4.5.0
+
+# Optional: For environment variables
+python-dotenv>=1.0.0
+
+# Optional: For logging
+colorlog>=6.7.0
